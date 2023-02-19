@@ -6,3 +6,6 @@ print(4 * 5)
 print('Hello')
 print('bla bla bla')
 print('It is ok')
+g = '1234'
+s = '21423452354'
+print(g + s)
